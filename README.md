@@ -24,7 +24,7 @@ My interests are self-hosting, workflow automation, developer tools and AI-assis
 | :--- | :--- |
 | [**multidrop**](https://github.com/digitaldanis/multidrop) | AirDrop, Quick Share, LocalSend and AirPlay in one app for Windows and Linux |
 | [**esp32-adapter**](https://github.com/digitaldanis/esp32-adapter) | Turns a $5 ESP32 into a USB Bluetooth adapter for Linux, with A2DP music and HFP headset mic |
-| [**twinpeek**](https://github.com/digitaldanis/twinpeek) | Finds duplicate files. Read-only, dependency-free and easy to script |
+| [**kontor**](https://github.com/digitaldanis/kontor) | Self-hosted invoicing and time tracking for freelancers and small businesses in Germany and the EU, with ZUGFeRD and XRechnung e-invoices |
 
 ## Stack
 
